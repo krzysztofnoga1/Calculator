@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="clear_btn">C</string>
+    <string name="equals_btn">=</string>
+    <string name="add_btn">+</string>
+    <string name="subtract_btn">-</string>
+    <string name="divide_btn">÷</string>
+    <string name="multiply_btn">×</string>
+    <string name="dot_btn">.</string>
+    <string name="plus_minus_btn">±</string>
+    <string name="backspace_btn">bksp</string>
+    <string name="men_btn">menu</string>
+
+    <string name="zero_btn">0</string>
+    <string name="one_btn">1</string>
+    <string name="two_btn">2</string>
+    <string name="three_btn">3</string>
+    <string name="four_btn">4</string>
+    <string name="five_btn">5</string>
+    <string name="six_btn">6</string>
+    <string name="seven_btn">7</string>
+    <string name="eight_btn">8</string>
+    <string name="nine_btn">9</string>
+
+    <string name="sin_btn">sin</string>
+    <string name="cos_btn">cos</string>
+    <string name="tan_btn">tan</string>
+    <string name="ln_btn">ln</string>
+    <string name="sqrt_btn">√</string>
+    <string name="square_btn">X^2</string>
+    <string name="y_pwr_btn">X^Y</string>
+    <string name="log_btn">log</string>
+    <string name="percent_btn">%</string>
+    <string name="left_semicolon_btn">(</string>
+    <string name="right_semicolon_btn">)</string>
+
+    <string name="result">0.0</string>
+
+    <string name="simple_btn">simple</string>
+    <string name="advanced_btn">advanced</string>
+    <string name="about_btn">about</string>
+    <string name="exit_btn">exit</string>
+
+    <string name="title">CALCULATOR</string>
+
+    <string name="about">
+Calculator app with functions of simple and advanced calculator.
+Author: Krzysztof Noga
+    </string>
+    <string name="back_btn">back</string>
+</resources>

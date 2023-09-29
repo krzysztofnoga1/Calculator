@@ -25,6 +25,10 @@ Advanced calculator, which in addition to fundamental mathematical operations ad
 - logarithm to base 10,
 - natural logarithm
 
+# Live demo 🎥
+
+https://github.com/krzysztofnoga1/Calculator/assets/103099396/3e09134c-aa38-4f4b-8d63-569763c3d03a
+
 # Screenshots 📸
 
 ![App Screenshot](https://i.postimg.cc/yNjc0P4S/Screenshot-20230928-174514.png)
